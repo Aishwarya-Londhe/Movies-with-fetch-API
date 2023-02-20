@@ -1,0 +1,32 @@
+
+.movieCard{
+    height: 700px;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.movieCard img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.movieCard figcaption{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.overview {
+    position: absolute;
+    bottom: -120%;
+    left: 0;
+    right: 0;
+    transition: all .3s;
+}
+
+.movieCard:hover .overview{
+    bottom: 0;
+}

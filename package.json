@@ -1,0 +1,14 @@
+{
+  "name": "movies-with-fetch-api",
+  "version": "1.0.0",
+  "description": "Working on fetch Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aishwarya Londhe",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.2"
+  }
+}
