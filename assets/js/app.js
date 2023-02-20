@@ -70,7 +70,6 @@ makeApiCall("GET", baseUrl)
     })
 
 const onPostSubmit = (eve) => {
-    eve.preventDefault();
     let obj = {
         title: titleControl.value,
         vote_average: contentControl.value,
