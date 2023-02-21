@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.6.2"
+    " json-file-import": "github:lmoran/json-file-import.git#vX.Y.Z"
   }
 }
