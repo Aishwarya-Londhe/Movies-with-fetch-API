@@ -24,7 +24,7 @@
       "release_date": "2022-02-10",
       "title": "The Mystic Nine: Begonia from Qingshan",
       "video": false,
-      "vote_average": "5.5",
+      "vote_average": "5.9",
       "vote_count": 5,
       "body": "9"
     },
@@ -253,14 +253,6 @@
       "video": false,
       "vote_average": 5.9,
       "vote_count": 97
-    },
-    {
-      "title": "The SpongeBob Movie: Sponge on the Run",
-      "vote_average": "7.6",
-      "backdrop_path": "/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
-      "overview": "When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.",
-      "userId": 7,
-      "id": 937014
     }
   ]
 }
